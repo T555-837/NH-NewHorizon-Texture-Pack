@@ -1,0 +1,14 @@
+{
+	"name":"NH NewHorizon Texture Pack",
+	"displayName":"Newhorizon Texture Pack",
+	"version":"v1.2",
+	"subtitle":"v1.2",
+	"description":"меняет текстуры мода Newhorizon .",
+	"author":"T555",
+	"minGameVersion":146,
+	"maxGameVersion":160,
+	"hidden": true,
+	"dependencies":[
+	"new-horizon"
+	]
+}
